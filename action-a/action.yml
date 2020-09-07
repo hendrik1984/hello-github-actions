@@ -7,10 +7,6 @@ inputs:
     description: "Who to greet"
     required: true
     default: "World"
-  MY_JOB:
-    description: "My Job"
-    required: true
-    default: "Software Engineer"
     
 runs:
   using: "docker"
