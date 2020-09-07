@@ -7,6 +7,8 @@ inputs:
     description: "Who to greet"
     required: true
     default: "World"
+
+inputs:
   MY_JOB:
     description: "My Job"
     required: true
